@@ -11,6 +11,12 @@
 - 단일 회원의 주문 목록 조회 (getUserOrder)
 - 여러 회원 목록 조회 (getUsers)
 
+## DDL 
+테이블 생성 쿼리는 아래에 위치하고 있습니다. 
+```
+/database/SQL_DDL/
+```
+
 ## NOTICE
 
 이것은 과제용이며 실제 아이디어스 API가 아닙니다.
